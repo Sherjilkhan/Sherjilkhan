@@ -44,11 +44,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sherjil-codes&show_icons=true&theme=radical&hide=prs&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sherjilkhan&show_icons=true&theme=radical&hide=prs&count_private=true" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sherjil-codes&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sherjilkhan&theme=radical&hide_border=false" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherjil-codes&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherjilkhan&layout=compact&theme=radical" />
 </p>
 
 ---
